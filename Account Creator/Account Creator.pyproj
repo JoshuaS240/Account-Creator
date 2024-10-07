@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>64d37254-7347-49cc-a306-8f99df992ce7</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Program_Testing.py</StartupFile>
+    <StartupFile>Account_Creator.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
